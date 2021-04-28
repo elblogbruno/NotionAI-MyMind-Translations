@@ -1,20 +1,88 @@
 [
   {
-    "id": "sign_in",
-    "en": "SIGN IN",
-    "fr": "SE CONNECTER",
-    "es_es": "CONECTARSE"
+    "en": "Open your mind",
+    "es_es": "Abrir mi mente"
   },
   {
-    "id": "sign_up",
-    "en": "SIGN UP",
-    "fr": "S'ENREGISTER",
-    "es_es": "REGISTRARSE"
+    "en": "Open Github Repo",
+    "es_es": "Abrir repo Github"
   },
   {
-    "id": "email_label",
-    "en": "Email",
-    "fr": "Email",
-    "es_es": "Email"
+    "en": "Post an Issue",
+    "es_es": "Publicar bug en el repositorio"
+  },
+  {
+    "en": "Open Server Settings",
+    "es_es": "Abrir servidor"
+  },
+  {
+    "en": "Refresh collections",
+    "es_es": "Actualizar Colecciones"
+  },
+  {
+    "en": "Made with love by @elblogbruno! Have any problem or feedback? Post an issue!",
+    "es_es": "¡Hecho con amor por @elblogbruno! ¿Tienes algún problema o comentario? ¡Publica un bug en el repositorio!"
+  },
+  {
+    "en": "Welcome to your mind!",
+    "es_es": "Bienvenido a tu mente!"
+  },
+  {
+    "en": "Settings",
+    "es_es": "Ajustes"
+  },
+  {
+    "en": "Server url (do not forget the / at the end)",
+    "es_es": "Url del servidor (no olvide el / al final)"
+  },
+  {
+    "en": "Current url: ",
+    "es_es": "Url actual: "
+  },
+  {
+    "en": "Awaiting result...",
+    "es_es": "A la espera del resultado..."
+  },
+  {
+    "en": "Content could not be added to your mind.",
+    "es_es": "El contenido no pudo ser añadido a su mente."
+  },
+  {
+    "en": "Error during accessing server. Make sure the ip/port are corrects, and the server is running.",
+    "es_es": "Error durante el acceso al servidor. Asegúrese de que la dirección IP y el puerto son correctos, y el servidor está funcionando."
+  },
+  {
+    "en": "Failed to contact server. Make sure you have internet.",
+    "es_es": "No se ha podido contactar con el servidor. Asegúrese de que tiene Internet."
+  },
+  {
+    "en": "Available collections",
+    "es_es": "Colecciones disponibles"
+  },
+  {
+    "en": "Available collections",
+    "es_es": "Colecciones disponibles"
+  },
+  {
+    "en": "Add new content",
+    "es_es": "Añadir contenido"
+  },
+  {
+    "en": "Modify Block",
+    "es_es": "Modificar Bloque"
+  },
+  {
+    "en": "Current URL:",
+    "es_es": "URL Actual: "
+  },
+  {
+    "en": "Current Title:",
+    "es_es": "Título actual:"
+  },
+  {
+    "en": "Update Tags",
+    "es_es": "Añadir Etiquetas"
   }
+
+
 ]
