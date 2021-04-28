@@ -1,0 +1,43 @@
+{
+  "close": {
+    "message": "Close",
+    "description": "This is for closing the menu"
+  },
+  "refresh": {
+    "message": "Refresh collections",
+    "description": "This is for closing the menu"
+  },
+  "please_refresh": {
+    "message": "Please refresh your collections. Right click -> Refresh Collections",
+    "description": "This is for closing the menu"
+  },
+  "server_error": {
+    "message": "Error during accessing server. Make sure the ip/port are corrects, and the server is running.",
+    "description": "This is for closing the menu"
+  },
+  "open_mind": {
+    "message": "Open my mind",
+    "description": "This is for closing the menu"
+  },
+  "open_server": {
+    "message": "Open server",
+    "description": "This is for closing the menu"
+  },
+  "add_text": {
+    "message": "Add to my mind:",
+    "description": "This is for closing the menu"
+  },
+  "modify_block_button": {
+    "message": "Modify",
+    "description": "This is for closing the menu"
+  },
+  "modify_block_title": {
+    "message": "Modify Block",
+    "description": "This is for closing the menu"
+  },
+  "add_tags_placeholder": {
+    "message": "Add tags",
+    "description": "This is for closing the menu"
+  }
+  
+}

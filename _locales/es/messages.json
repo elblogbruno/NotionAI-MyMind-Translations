@@ -1,0 +1,42 @@
+{
+  "close": {
+    "message": "Cerrar",
+    "description": "This is for closing the menu"
+  },
+  "refresh": {
+    "message": "Actualizar Colecciones",
+    "description": "This is for closing the menu"
+  },
+  "please_refresh": {
+    "message": "Por favor, actualice sus colecciones. Haga clic con el botón derecho del ratón -> Actualizar colecciones",
+    "description": "This is for closing the menu"
+  },
+  "server_error": {
+    "message": "Error durante el acceso al servidor. Asegúrese de que la dirección IP y el puerto son correctos, y el servidor está funcionando.",
+    "description": "This is for closing the menu"
+  },
+  "open_mind": {
+    "message": "Abrir mi mente",
+    "description": "This is for closing the menu"
+  },
+  "open_server": {
+    "message": "Abrir servidor",
+    "description": "This is for closing the menu"
+  },
+  "add_text": {
+    "message": "Añadir a mi mente:",
+    "description": "This is for closing the menu"
+  },
+  "modify_block_button": {
+    "message": "Modificar",
+    "description": "This is for closing the menu"
+  },
+  "modify_block_title": {
+    "message": "Modificar Bloque",
+    "description": "This is for closing the menu"
+  },
+  "add_tags_placeholder": {
+    "message": "Añadir Etiquetas",
+    "description": "This is for closing the menu"
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sign_in",
+    "en": "SIGN IN",
+    "fr": "SE CONNECTER",
+    "es_es": "CONECTARSE"
+  },
+  {
+    "id": "sign_up",
+    "en": "SIGN UP",
+    "fr": "S'ENREGISTER",
+    "es_es": "REGISTRARSE"
+  },
+  {
+    "id": "email_label",
+    "en": "Email",
+    "fr": "Email",
+    "es_es": "Email"
+  }
+]
