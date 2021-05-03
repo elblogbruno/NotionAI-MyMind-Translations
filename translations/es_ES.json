@@ -45,6 +45,11 @@
           "response": "Hay una actualización disponible para el servidor.",
           "status": "success"
         },
+      "0":
+        {
+          "response": "El servidor está al día.",
+          "status": "success"
+        },
       "2":
         {
           "response": "El Token V2 de Notion ha sido actualizado con éxito.",
@@ -53,6 +58,11 @@
       "3":
         {
           "response": "El Token V2 de Notion no pudo ser actualizado. Por favor, hágalo manualmente.",
+          "status": "error"
+        },
+      "404":
+        {
+          "response": "Por favor, configure el servidor. Puede hacer clic en esta casilla para hacerlo.",
           "status": "error"
         }
     }

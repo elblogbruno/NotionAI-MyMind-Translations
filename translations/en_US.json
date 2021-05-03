@@ -45,6 +45,11 @@
           "response": "There is an update available for the server.",
           "status": "success"
         },
+      "0":
+        {
+          "response": "Server is up to date.",
+          "status": "success"
+        },
       "2":
         {
           "response": "Notion Token V2 was updated succesfully!",
@@ -54,6 +59,11 @@
         {
           "response": "Notion Token V2 could not be updated. Please do it manually!",
           "status": "success"
+        },
+      "404":
+        {
+          "response": "Please configure the server. You can click this box to do so.",
+          "status": "error"
         }
     }
 }

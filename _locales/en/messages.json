@@ -38,6 +38,10 @@
   "add_tags_placeholder": {
     "message": "Add tags",
     "description": "This is for closing the menu"
+  },
+  "tag_title": {
+    "message": "Tag Suggestions",
+    "description": "This is for closing the menu"
   }
   
 }

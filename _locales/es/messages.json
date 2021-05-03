@@ -38,5 +38,9 @@
   "add_tags_placeholder": {
     "message": "Añadir Etiquetas",
     "description": "This is for closing the menu"
+  },
+  "tag_title": {
+    "message": "Sugerencias de etiquetas",
+    "description": "This is for closing the menu"
   }
 }
