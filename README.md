@@ -9,15 +9,6 @@
 
   <p align="center">
     This repo holds the translations for <a href="https://github.com/elblogbruno/NotionAI-MyMind">NotionAI My Mind</a>
-    <br />
-    <a href="https://github.com/elblogbruno/NotionAI-MyMind/wiki"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://www.notion.so/glassear/My-Mind-Demo-Structure-ebd913d0cfa14889b122d391a883db94">View Demo</a>
-    ·
-    <a href="https://github.com/elblogbruno/NotionAI-MyMind/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/elblogbruno/NotionAI-MyMind/discussions/categories/ideas">Request Feature</a>
   </p>
 </p>
 
